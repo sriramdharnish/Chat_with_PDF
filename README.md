@@ -17,5 +17,11 @@ This repository contains a Streamlit application designed to enable interactive 
 
 ## 📌Output
 
+![Chat with PDF Git1](https://github.com/sriramdharnish/Chat_with_PDF/assets/94969747/6bdc51c9-2793-4987-9508-88ff91caefce)
+
+![Chat with PDF Git2](https://github.com/sriramdharnish/Chat_with_PDF/assets/94969747/ab812b1c-218f-4173-999a-da08820a1c89)
+
+
+
 
   
