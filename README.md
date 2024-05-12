@@ -1,4 +1,4 @@
-# Chat with PDF using Streamlit and Google API
+# Chat with PDF using Streamlit and Google Gemini Pro
 
 This repository contains a Streamlit application designed to enable interactive chatting with PDF documents using Google's powerful APIs. The application allows users to upload PDF documents, extract text, and perform text-based operations such as searching, summarizing, and generating questions and answers based on the content. This project leverages Google Cloud's Document AI and Natural Language API to interpret and interact with the content of PDF documents efficiently.
 
